@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erlsplum.github.io/sitemap.erlsplum.gz
+Sitemap: https://erlsplum.github.io/app/sitemap.erlsplum.gz
+Sitemap: https://erlsplum.github.io/assets/sitemap.erlsplum.gz
+Sitemap: https://erlsplum.github.io/css/sitemap.erlsplum.gz
+Sitemap: https://erlsplum.github.io/data/sitemap.erlsplum.gz
+Sitemap: https://erlsplum.github.io/includes/sitemap.erlsplum.gz
+Sitemap: https://erlsplum.github.io/item/sitemap.erlsplum.gz
+Sitemap: https://erlsplum.github.io/src/sitemap.erlsplum.gz
